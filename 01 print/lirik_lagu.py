@@ -1,0 +1,6 @@
+print("Nobady Gets Me")
+print("Drunk text")
+print("Wide Awake")
+print("Rawrite The Stars")
+print("Bawa Dia Kembali")
+print("Earphone recomended")

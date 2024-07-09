@@ -1,0 +1,6 @@
+print("Nama : Maulida Agustina")
+print("Tanggal Lahir : 10 Agustus 2005")
+print("Usia : 18")
+print("Universitas  Hamzanwadi")
+print("Alamat : Pringgabaya")
+print("Hobi : Trevling,badminton")

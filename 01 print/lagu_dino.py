@@ -1,0 +1,6 @@
+print("LAGU DINO")
+print()
+print("badanya besar,tangannya kecil")
+print("ia bertaring,kukunya runcing")
+print("tak makan sayur,makannya daging")
+print("kalau mengaum,yang lain langsung mundur")
